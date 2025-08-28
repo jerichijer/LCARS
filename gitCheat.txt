@@ -1,0 +1,28 @@
+This is a file containing basic Git commands if you are unsure how to use git on the command line.
+
+git add <file> | adds a specific file to the staging area
+git add . | adds all modified and new files to the staging area
+git status | shows current state of repo, including tracked and untracked files, modified files, and branch info
+git commit -m "<message>" | creates a new commit with the changes in the staging area and specifies the commit message inline
+git restore <file> | restores the file to the last commit
+git rm <file> | removes a file from the local dir and repo, staging the deletion.
+git mv <old> <new> | moves or renames a file or directory in repo
+git pull | fetches changes from the repo and merges them into the current branch
+git push | pushes local commits to the repo
+
+
+This will be the workflow we follow
+-----------------------------------
+1. pull latest changes
+	- git pull origin main
+2. make changes locally
+3. stage and commit changes
+	- git add .
+	- git commit -m "descriptive message"
+4. push to github
+	- git push origin main
+	
+
+
+
+don't be afraid to ask for help if you are confused or unsure. good luck!

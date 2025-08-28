@@ -1,0 +1,24 @@
+{
+  "name": "lcars",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/jerichijer/LCARS#readme",
+  "bugs": {
+    "url": "https://github.com/jerichijer/LCARS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerichijer/LCARS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+	"start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^37.4.0"
+  }
+}
