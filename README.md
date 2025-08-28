@@ -6,16 +6,24 @@ This repository contains the LCARS project.
 
 If you are unsure how to use git, please refer to the [Git Cheat Sheet](gitCheat.txt)
 
-## Cloning the Repository
+## Installation
+### 1. Cloning the Repository
 
 To get a local copy of the project, run the following command:
 
 ```bash
 git clone https://github.com/jerichijer/LCARS.git
 ```
-## Running Application
+### 2. Install dependencies
+This will install everything you need to run the project, including electron
 
-To run the application, simply run
+```bash
+cd LCARS
+npm install
+```
+### 3. Running Application
+
+To run the application, simply type
 
 ```bash
 npm run start
