@@ -18,6 +18,7 @@ This will be the workflow we follow
 2. make changes locally
 3. stage and commit changes
 	- git add .
+	- git status
 	- git commit -m "descriptive message"
 4. push to github
 	- git push origin main
