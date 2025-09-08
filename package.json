@@ -13,7 +13,7 @@
   "license": "ISC",
   "author": "",
   "type": "commonjs",
-  "main": "main.js",
+  "main": "electron-main.js",
   "scripts": {
 	"start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
