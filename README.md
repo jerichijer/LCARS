@@ -2,7 +2,6 @@
 
 This branch contains a **React frontend** wrapped in **Electron**.
 
----
 
 ## Getting Started
 1. **Migrate to React Branch**:
