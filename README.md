@@ -1,18 +1,6 @@
 # LCARS Interface (React + Electron)
 
 This branch contains a **React frontend** wrapped in **Electron**.
-
-## File Structure
-root/
-|- electron-main.js <!-- main electron process -->
-|- package.json 	<!-- metadata and scripts -->
-|- public/
-|	|- index.html
-|	|- electron.js 	<!-- optional preload scripts -->
-|- src/				<!-- react source code -->
-|
-|- build/			<!-- react prod build -->
-
 ---
 
 ## Getting Started
