@@ -1,24 +1,20 @@
-# temp
+# LCARS Interface (Vue + Electron)
 
-## Project setup
+This branch contains a **Vue** frontend wrapped in **Electron**
+
+## Getting Started
+
+1. **Migrate to Vue Branch
+```bash
+git switch vue
 ```
+
+2. **Install Dependencies**
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
+3. **Run Application**
+```bash
+npm start
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
