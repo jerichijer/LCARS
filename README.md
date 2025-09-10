@@ -1,6 +1,7 @@
 # LCARS Interface (React + Electron)
 
 This branch contains a **React frontend** wrapped in **Electron**.
+
 ---
 
 ## Getting Started
